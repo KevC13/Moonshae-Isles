@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "0107d04c4cbf04a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "41811008232213c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3c37c09bc955d3a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "4 - Images/0.0 Moonshae Isles Map.webp"
+              },
+              "icon": "lucide-image",
+              "title": "0.0 Moonshae Isles Map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d887b1358147403",
+    "type": "split",
+    "children": [
+      {
+        "id": "43746bb28a08efef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc003a6d0339401d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "84f4885bbc157e95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "70e2fbf564d10dca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "674206ef462c396f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d82519286a13534e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8727a3ea07a771b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4 - Images/0.0 Moonshae Isles Map.webp",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 0.0 Moonshae Isles Map"
+            }
+          },
+          {
+            "id": "529976ec507101bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4 - Images/0.0 Moonshae Isles Map.webp",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0.0 Moonshae Isles Map"
+            }
+          },
+          {
+            "id": "55e0aa29f3d02b86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c6611f7574c74146",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3eadd27d691e7b4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4 - Images/0.0 Moonshae Isles Map.webp",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0.0 Moonshae Isles Map"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c3c37c09bc955d3a",
+  "lastOpenFiles": [
+    "6 - Chapters/CH 2 - The Ruins of Caer Corwell.md",
+    "6 - Chapters/CH 1 - The Corwell Grove Moonwell.md",
+    "2 - Locations/Sarifal.md",
+    "4 - Images/1.1 Moonwell Map - Corwell Grove.png",
+    "4 - Images/0.0 Moonshae Isles Map.webp",
+    "2 - Locations/Moonshae Isles.md",
+    "1 - Outline/Outline.md",
+    "4 - Images/2.5 Boggle.jpeg",
+    "3 - Political Factions/Unseelie Fey.md",
+    "4 - Images/2.4 Moon Amulet.png",
+    "4 - Images/2.3 Earthmother Temple.png",
+    "7 - Recap/Act I - The Corrupted Moonwells.md",
+    "5 - Characters/Solomon Cinder.md",
+    "4 - Images/Pasted image 20260506151132.png",
+    "7 - Recap",
+    "5 - Characters/Kol Djurk.md",
+    "5 - Characters/Fink Ersell.md",
+    "5 - Characters/Eamon Findigaid.md",
+    "5 - Characters/Al-Dahr.md",
+    "4 - Images/2.2 Caer Corwell Map.png",
+    "4 - Images/2.1 Caer Corwell.png",
+    "4 - Images/1.5 Forest Guide.png",
+    "5 - Characters",
+    "3 - Political Factions/Ffolk.md",
+    "2 - Locations/Moonwells.md",
+    "3 - Political Factions",
+    "4 - Images/1.1.2 Corwell Grove Moonwell.png",
+    "6 - Chapters",
+    "22.md",
+    "Untitled.md",
+    "4 - Images",
+    "2 - Locations",
+    "Welcome.md",
+    "1 - Outline"
+  ]
+}

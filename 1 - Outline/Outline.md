@@ -1,0 +1,107 @@
+- Possible Storyhooks
+		- Tristan and Robyn need their aid in saving the Moonshaes from some great calamity. 
+			- Return of the .
+		- Aid the Earthmother and protect the moonwells.
+			- A darkness is spreading, spoiling some of the moonwells in (unknown) region, creating "darkwells".
+				- Spoiled: By sacrificing living victims within a moonwell. Achieve by at least two members from among the Moonsahe's natives; Ffolk, dwarves, Llewar elves, and halflings. These sacrifices  are killed within one day of either a full or new moon.
+			- The darkness is being spread by the cult of Bhaal known as the Deathstalkers
+				- Making sacrifices to resurrect Bhaal and herald the return of his Avatar Kazgoroth.
+			- The darkness will herald the return of an ancient evil; 
+				- Bhaal
+				- But first facing his "Aspects/Avatars" - the Slayer, the Ravager, and Kazgoroth
+			- Most of the Druids have disappeared and the Earthmother has pulled back her power to prevent it from being spoiled. Only a few powerful and hidden moonwells remain. 
+			- Characters to find the source of the darkness, protect the moonwells, find the druids and if possible restore the defiled moonwells to power.
+		- A Dark moonwell could take them through the land of obsidian to the darkwell in the Land Under Eternal Ice, located in the Dark Wilds of the Astral Sea.
+			- Connect to Spelljammer?
+- ==**Basic Outline**==
+	- ==Levels 1 - 5==
+		- Arise at the Moonwell
+		- Learn about their past
+		- Go to Caer Corwell - Find cleansing artifact
+		- Cleanse wells as Kingsbay and Darkhorn (triangle of protecting)
+		- Go to Sacred Grove of the to meet with Earthmother
+			- Learn of their Deaths
+			- Learn of the Larger Danger
+				- Source of the local corruption is within the Fens of Fallon
+				- The druids protecting that moonwell have been corrupted
+				- Cleanse the corruption and discover what has been corrupting the druids
+		- Bads
+			- Unseelie of Caer Corwell
+			- Corrupted Creatures
+			- Corrupted Druid Cultists
+			- Cultists of Bhaal
+			- Beasts of the land
+		- Big Bad
+			- Lesser Corrupted Druid
+	- ==Level 6 - 10==
+		- Investigate the Cult
+		- Personal Story Arcs
+		- Protect the Moonwells on other Isles
+			- Moray
+			- Oman
+			- Alaraon
+		- Investigate the missing/corrupted Druids
+		- Political Drama
+			- Learn of Black Blood Tribe and the threat of Kazgoroth
+			- Tie Main Druid to threat
+			- End with the return of Kazgoroth
+		- Bads
+			- Black Blood Tribe
+			- Giants
+			- Storm MAiden
+		- Big Bad
+			- Main Corrupted Druid 
+	- ==Level 11 - 15==
+		- Enter the Feywild
+			- Seek out the Sword of Cymrych Hugh
+		- Learn of Bhaal
+		- Stop his Avatars
+	- ==Level 16 - 20==
+		- Learn of Bhaal's master plan
+		- Seek out Bhaal
+		- Stop him
+
+Session 0
+- Explain the premise and unique start to campaign
+- Social and Exploration emphasis early on.
+- Choose name, species and background
+- List of 3 desired classes
+- Basic character arc in mind. 
+	- Should be mundane/ordinary people
+	- Little to no training (magical or martial)
+		- Acolyte/Sage - related to magic user
+		- Gaurd/Soldier - Son of a military officer
+	- Explains background
+CHAPTER 1 - Moonwell (Level 1) - Sacred Grove of the Earthmoth
+	Lvl 1 - Begin in [[Moonshae Isles]]
+	- All in a room/dungeon
+		- In an ancient burial Cairn
+		- Near a dark pool (one of the [moonwells](https://forgottenrealms.fandom.com/wiki/Moonwell))
+			- Hidden moonwell guarded by a powerful and mysterious druid known only as the "Steward of the Grove".
+				- Who is he/she?
+					- Robyn Kendrick?
+				- What is their purpose in the story? 
+					- Guide and connection to the past.
+					- Imparts knowledge of previous attempts by Kazgoroth to destroy the Moonshaes
+					- Helps them in the Feywild later?
+					- Gives them the quest to find her husband, King Tristant, and/or reclaim the famed Sword of Cymrych Hugh 
+	- No knowledge of their past or identity
+		- Who took it?
+			- Earthmother
+		- Why?
+			- Each was near death. The Earthmother sensed goodness and strength in them and rescued them. Transporting them to a moonwell to be healed. With that process she bound some of their memories from their recent past, including their (near) death.
+		- How do they get it back?
+			- Some come back when they exit the cairn.
+			- Others, the more recent will only be restored after speaking with the Earthmother, and choosing to remember,
+		- Location on Moonshae?
+	- QUEST 1: Escape the cairn
+		- Learn their skills/stats/classes (fill out character sheet)
+		- Once outside they will meet the Steward in a grove of standing stones
+			- Been sent with basic equipment (determine if they are any good with it)
+			- Gives some narrative and direction
+			- sends them out of the forest with a guide
+			- Exit and 
+			
+			
+CHAPTER 2 - Caer Corwell
+	- Make contact with a holy figure
