@@ -11,12 +11,14 @@
             "id": "c3c37c09bc955d3a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "4 - Images/0.0 Moonshae Isles Map.webp"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "0.0 Moonshae Isles Map"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Images/0.0 Moonshae Isles Map.webp",
-                "linksCollapsed": true,
+                "file": "index.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0.0 Moonshae Isles Map"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -164,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,22 +184,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "c3c37c09bc955d3a",
+  "active": "c6611f7574c74146",
   "lastOpenFiles": [
+    "7 - Recap/Act I - The Corrupted Moonwells.md",
     "index.md",
+    "4 - Images/0.0 Moonshae Isles Map.webp",
     "_config.yml",
     "6 - Chapters/CH 2 - The Ruins of Caer Corwell.md",
     "6 - Chapters/CH 1 - The Corwell Grove Moonwell.md",
     "2 - Locations/Sarifal.md",
     "4 - Images/1.1 Moonwell Map - Corwell Grove.png",
-    "4 - Images/0.0 Moonshae Isles Map.webp",
     "2 - Locations/Moonshae Isles.md",
     "1 - Outline/Outline.md",
     "4 - Images/2.5 Boggle.jpeg",
     "3 - Political Factions/Unseelie Fey.md",
     "4 - Images/2.4 Moon Amulet.png",
     "4 - Images/2.3 Earthmother Temple.png",
-    "7 - Recap/Act I - The Corrupted Moonwells.md",
     "5 - Characters/Solomon Cinder.md",
     "4 - Images/Pasted image 20260506151132.png",
     "7 - Recap",
