@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "7 - Recap/Act I - The Corrupted Moonwells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Act I - The Corrupted Moonwells"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "7 - Recap/Act I - The Corrupted Moonwells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Act I - The Corrupted Moonwells"
             }
           },
           {
@@ -187,8 +187,8 @@
   },
   "active": "c3c37c09bc955d3a",
   "lastOpenFiles": [
-    "().md",
     "index.md",
+    "().md",
     "7 - Recap/Act I - The Corrupted Moonwells.md",
     "4 - Images/1.1.2 Corwell Grove Moonwell.png",
     "4 - Images/1.1 Moonwell Map - Corwell Grove.png",
