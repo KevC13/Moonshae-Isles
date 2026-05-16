@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "7 - Recap/Act I - The Corrupted Moonwells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Act I - The Corrupted Moonwells"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "7 - Recap/Act I - The Corrupted Moonwells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Act I - The Corrupted Moonwells"
             }
           },
           {
@@ -187,14 +187,16 @@
   },
   "active": "c3c37c09bc955d3a",
   "lastOpenFiles": [
+    "4 - Images/1.1 Moonwell Map - Corwell Grove.png",
     "7 - Recap/Act I - The Corrupted Moonwells.md",
+    "4 - Images/1.1.2 Corwell Grove Moonwell 1.png",
+    "4 - Images/1.1.2 Corwell Grove Moonwell.png",
     "index.md",
     "4 - Images/0.0 Moonshae Isles Map.webp",
     "_config.yml",
     "6 - Chapters/CH 2 - The Ruins of Caer Corwell.md",
     "6 - Chapters/CH 1 - The Corwell Grove Moonwell.md",
     "2 - Locations/Sarifal.md",
-    "4 - Images/1.1 Moonwell Map - Corwell Grove.png",
     "2 - Locations/Moonshae Isles.md",
     "1 - Outline/Outline.md",
     "4 - Images/2.5 Boggle.jpeg",
@@ -210,12 +212,10 @@
     "5 - Characters/Al-Dahr.md",
     "4 - Images/2.2 Caer Corwell Map.png",
     "4 - Images/2.1 Caer Corwell.png",
-    "4 - Images/1.5 Forest Guide.png",
     "5 - Characters",
     "3 - Political Factions/Ffolk.md",
     "2 - Locations/Moonwells.md",
     "3 - Political Factions",
-    "4 - Images/1.1.2 Corwell Grove Moonwell.png",
     "6 - Chapters",
     "22.md",
     "Untitled.md",
