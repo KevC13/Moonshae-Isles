@@ -86,9 +86,23 @@ What Aaron Asks of the Party
 **3. Market Square**
 A muddy central commons surrounded by smithies, merchants, and tradesmen.
 Notable NPCs
-	•	Morna Reedcloak — herbalist with minor druidic knowledge
-	•	Durgan Pike — blacksmith who once served in Caer Callidyrr
-	•	Brother Talien — traveling priest increasingly disturbed by local omens
+	•	Morna Reedcloak — old herbalist with blue arced tattoos under her eyes (minor druidic knowledge)
+		- 1d4 Healing Potions (50GP)
+		- 1d4 vials of antitoxin (50GP)
+		- Herbalism and Healers Kit (5GP)
+		- Bug Repellents, Salves, Perfumes, Natural Dyes and Cosmestics
+		- Herbs, Incense, Candles, 
+	•	Durgan Pike — blacksmith who once served in Caer Callidyrr (capital of Moonshae on Alaron Isle)
+		- Provides basic weapons and armor
+		- Alaron = Center of Ffolk life and strength
+		- High King Derid Kendrick rules - hopes of returning the Kendrick name to glory and truly reunite the Moonshaes under one banner, like his great grandparents
+			- High King Tristan Kendrick and Queen Robyn Kendrick
+			- King Tristan was an unrivaled warrior and weilder of the famed Sword of Cymrych Hugh
+			- Queen Robyn was the most powerful Druid of their age
+			- Disappeared into the Feywild nearly 150 years ago.
+			- Famed for uniting the Moonshaes and preventing the return of Kazgoroth
+			- Kazgoroth = Powerful, intelligent, and evil beast that tried to destroy all of the Moonshaes. 
+	•	Broth Talien — local merchant that peddles most mundane wares. 
 
 
 **4. The Harbor and Smokehouse**
@@ -96,7 +110,7 @@ A crowded dock lined with fishing vessels, crab traps, and weather-beaten sailor
 Features
 	•	Constant smell of salt, tar, and smoked fish
 	•	Fishermen whisper of “black tides” appearing offshore to the south
-	•	Several boats refuse to fish near Darkhorn Point
+	•	Several boats have disappeared near near Darkhorn Point and now most refuse to fish there
 Encounters
 	•	Drunken sailors brawl nightly
 	•	Strange dead fish wash ashore with pale white eyes
