@@ -46,3 +46,6 @@
 
 **After that encounter, the rest of the journey that day was uneventful. As evening drew near, you all stopped to make camp and rest. Realizing you were out of water, most went to search for water, while Sol stayed to start a fire. You found a nearby small pond, using Al-Dahr's oil soaked bucket to boil the water (except the iron gutted Fink who drank it immediately to no ill effect). After munching on some rations, you all fell into a restful sleep, taking turns to watch over the camp.**
 
+**The night passed uneventfully in the outside world, but you awoke to the sound of Kol shouting excitedly that he would accept. Solomon was the last to awake and Fink and Kol noticed he did so appearing to have grasped someone hand along with faint flash of green passing along his fingertips. While Kol cooked up some breakfast, which Al Dahr hungrily consumed, you soon learned that each of you had dreamed more of your past. After sharing, some more than others, you guys set out along the road once again, but soon found the trail overgrown and you had to navigate the terrain more slowly. The march proved more difficult than the previous day, but as dusk approached, you saw signs of the road returning and soon stumbled upon a small village.**
+
+
