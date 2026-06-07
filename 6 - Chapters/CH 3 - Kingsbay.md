@@ -117,10 +117,27 @@ Encounters
 	•	PCs may spot cloaked figures unloading crates after midnight (cult of Bhaal activity)
 
 **5. The Barracks**
+A series of buildings surrounds a training yard where a half down soldiers train with swords, shields, pikes and other various weapons. 
+	- Largest Building = Barracks, mess hall and stables
+	- Smallest = Captain of the Garrison Quarters
+	- Medium = Armory
+- Captain of the Garrison = Aralt Kearney, [Guard Captain](https://www.dndbeyond.com/monsters/5195064-guard-captain)
+- Master at Arms = Mac Threinfhir, trains the soldiers, [Veteran](https://www.dndbeyond.com/monsters/5195260-warrior-veteran)
+- Three dozen soldiers, using the [guard](https://www.dndbeyond.com/monsters/5195065-guard) in the garrison
+	- A dozen on duty each day, in a 3 day rotation
+- Special group of 6 [scouts](https://www.dndbeyond.com/monsters/5174957-scout) that are used for missions outside of the city
 
-
-
-
+Rumors About Darkhorn Castle
+Roll or choose:
+d8	Rumor
+1	Green lights flicker in the castle windows during storms.
+2	Armies of the dead patrol the nearby moors at night.
+3	Fishermen hear screaming from beneath the cliffs.
+4	The castle belonged to a mage who bargained with dark fey.
+5	Children vanish if they wander too close to Darkhorn Forest.
+6	Secret tunnels connect the castle to ancient druid catacombs.
+7	A monstrous black beast guards the castle gates.
+8	The dead do not remain buried near Darkhorn Castle.
 
 
 ==3. The Kingsbay Moonwell==
@@ -141,28 +158,6 @@ Suitable for Levels 3–5:
 	•	Bog wraiths
 	•	A maddened satyr druid
 
-Darkhorn Castle
-An abandoned fortress atop sea cliffs west of Kingsbay.
-The locals call it haunted and avoid the surrounding moors entirely.
-
-Rumors About Darkhorn Castle
-Roll or choose:
-d8	Rumor
-1	Green lights flicker in the castle windows during storms.
-2	A headless rider patrols the old road at midnight.
-3	Fishermen hear screaming from beneath the cliffs.
-4	The castle belonged to a lord who bargained with dark fey.
-5	Children vanish if they wander too close to Darkhorn Moor.
-6	Secret tunnels connect the castle to ancient druid catacombs.
-7	A monstrous black stag guards the castle gates.
-8	The dead do not remain buried near Darkhorn Castle.
-Truth About Darkhorn Castle
-Much of the haunting is real.
-Beneath the castle lies:
-	•	An ancient fey crossing
-	•	Forgotten druidic tombs
-	•	A sealed shadow entity slowly awakening
-A cult dedicated to corrupted fey powers has recently occupied portions of the ruins.
 
 Adventure Hooks
 1. The Black Tide
