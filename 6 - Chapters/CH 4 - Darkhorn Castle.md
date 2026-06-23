@@ -20,3 +20,17 @@ Beneath the castle lies:
 	•	Forgotten druidic tombs
 	•	A sealed shadow entity slowly awakening
 A cult dedicated to corrupted fey powers has recently occupied portions of the ruins.
+
+Creatures Near the Moonwell
+Suitable for Levels 3–5:
+	•	Corrupted wolves
+	•	Twig blights
+	•	Shadow-touched boars
+	•	Bog wraiths
+	•	A maddened satyr druid
+
+Suggested Early Encounters (Levels 3–5)
+Encounter	Difficulty
+Cultist patrol from Darkhorn Castle	Medium
+Maddened Satyr Druid at the Moonwell	Hard
+Corrupted fey guardian	Hard

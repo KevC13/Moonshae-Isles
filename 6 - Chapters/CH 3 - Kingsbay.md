@@ -158,27 +158,11 @@ Suitable for Levels 3–5:
 	•	Bog wraiths
 	•	A maddened satyr druid
 
-
-Adventure Hooks
-1. The Black Tide
-Dead fish and bloated sea creatures wash ashore carrying traces of Moonwell corruption.
-2. Missing Scouts
-Aaron’s men vanished investigating Darkhorn Castle.
-3. The Weeping Grove
-A druid begs the party to cleanse the Moonwell before the next full moon.
-4. The Innkeeper’s Secret
-Maeve receives a message she believes came from her lost husband.
-5. Shadows in the Fog
-Villagers disappear whenever the unnatural sea fog rolls in.
-
 Suggested Early Encounters (Levels 3–5)
 Encounter	Difficulty
-Corrupted wolf pack	Easy
 Twig blight ambush	Medium
-Shadow-infused scarecrow	Medium
-Cultist patrol from Darkhorn Castle	Medium
 Bog wraith at the Moonwell	Hard
-Corrupted fey guardian	Hard
+
 Tone & Style Notes
 Kingsbay works best when played as:
 	•	Grim but hopeful
