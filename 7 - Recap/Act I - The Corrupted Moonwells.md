@@ -57,4 +57,5 @@
 ## Chapter 3 - Kingsbay
 **Descending into port town of Kingsbay, you spoke with a guard who told of a town market for purchasing items and the hospitable Silver Salmon Inn for food, drink, and rest. You inquired about the Lord of Kingsbay and he mentioned that the Lord Aaron MacFeagus holds daily meetings each morning with anyone in town who would like to raise a concern.**
 
-**With evening approaching you decided to head towards the Silver Salmon Inn and there found a large cozy gathering area with warm fires, good food, and good drinks. 
+**With evening approaching, you decided to head towards the Silver Salmon Inn and there found a large cozy gathering area with warm fires, good food, and good drinks. The owner, Maeve Thorne, had an overall friendly demeanor, but had a vocal distaste for nobles and was not a fan of Éamon. Ushering Éamon to a seat, you were able to get some information from Maeve regarding troubles in the area. While she did not know where the moonwell was, she did tell of black waters and dead fish to the south near the Kingsbay Woods, and missing boats and ill omens from the north around Darkhorn Castle. After gleaning what knowledge you could from her, you finished your food, arranged for some rooms and mostly went to bed. Éamon sipped some wine until late in the evening, and Al-Dahr decided to stay up all night tinkering.**
+
