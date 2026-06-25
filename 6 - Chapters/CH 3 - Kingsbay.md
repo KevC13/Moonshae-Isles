@@ -142,31 +142,23 @@ d8	Rumor
 
 ==3. The Kingsbay Moonwell==
 A sacred spring hidden within a stone circle deep in the forest.
-Current State
-Once shimmering silver-blue, the waters now swirl with oily black veins.
-Effects Nearby
-	•	Whispering voices at night
-	•	Sick livestock
-	•	Twisted wildlife
-	•	Cold fog rolling through the trees
-	•	Fey crossings destabilizing
-Creatures Near the Moonwell
-Suitable for Levels 3–5:
-	•	Corrupted wolves
-	•	Twig blights
-	•	Shadow-touched boars
-	•	Bog wraiths
-	•	A maddened satyr druid
 
-Suggested Early Encounters (Levels 3–5)
-Encounter	Difficulty
-Twig blight ambush	Medium
-Bog wraith at the Moonwell	Hard
+1. Traveling through the woods
+- Woods become darker
+- Decay begins to creep in
+- ENCOUNTER = Blight Ambush
 
-Tone & Style Notes
-Kingsbay works best when played as:
-	•	Grim but hopeful
-	•	Superstitious and isolated
-	•	Rich with ancient lore
-	•	Slowly escalating cosmic dread
-The town should feel like a place standing at the edge of something ancient awakening beneath the Isles.
+1. After the ambush
+- Decay will consume all of the woods
+	- Forest floor squishes beneath their feet
+	- Air presses tight and reeks of rot, making it hard to breath
+		- DC12 CON Save: Failure = Vomit
+- Warm fog rolls through the woods making it hard to navigate
+	- DISADV on Survival Checks
+		- DC13 SUR: Need 2 Successes to reach the moonwell
+		- Hear whispering voices in the fog
+		- Frightened animal rushing past shreiking
+
+> [!Read Aloud]
+> Once shimmering silver-blue, the waters now swirl with oily black veins.
+
