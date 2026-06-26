@@ -160,5 +160,18 @@ A sacred spring hidden within a stone circle deep in the forest.
 		- Frightened animal rushing past shreiking
 
 > [!Read Aloud]
-> Once shimmering silver-blue, the waters now swirl with oily black veins.
+> Once shimmering silver-blue, the waters of the moonwell now ripple with oily black liquid. Black fog hangs in the area around the glade, spreading like veins from the dark pool. 
 
+- DC15 PER = See the Shambling Mound beneath the surface of the pool.
+	- FAIL = Surprise attack when drawing within 5 feet of the moonwell.
+- Cleansing the Moonwell
+	- Must place the amulet within the pool to cleanse.
+	- Clears the black fog and negates its effects.
+	- Deals 2d6 damage to Shambling Mound if it enters/ends turn within the cleansed pool.
+- Shambling Mound
+	- Deal NECROTIC DMG (instead of Lightning)
+	- Immune to Necrotic instead of Lightning
+	- Legendary Actions (3 point)
+		- 1 point = summon a twig blight
+		- 2 points = swirl the black fog around a creature within 60 feet.
+			- Black Fog Swirl = DC13 CON save, Fail = 2d6 necrotic, Save = half dmg
