@@ -151,13 +151,19 @@ A sacred spring hidden within a stone circle deep in the forest.
 1. After the ambush
 - Decay will consume all of the woods
 	- Forest floor squishes beneath their feet
-	- Air presses tight and reeks of rot, making it hard to breath
-		- DC12 CON Save: Failure = Vomit
+	- Solomon hears movement ahead
+		- movement is erratic and heavy footed
+		- strange groans
+		- A doe, foaming at the mouth stumbles forward
 - Warm fog rolls through the woods making it hard to navigate
 	- DISADV on Survival Checks
 		- DC13 SUR: Need 2 Successes to reach the moonwell
-		- Hear whispering voices in the fog
-		- Frightened animal rushing past shreiking
+		- FAIL = fog darkens the woods and begins to blacken in color
+			- Air presses tight and reeks of rot, making it hard to breath
+			- DC12 CON Save: Failure = Vomit
+		- FAIL = Hear whispering voices in the fog
+		- Frightened animal rushing past shrieking
+		- 
 
 > [!Read Aloud]
 > Once shimmering silver-blue, the waters of the moonwell now ripple with oily black liquid. Black fog hangs in the area around the glade, spreading like veins from the dark pool. 
