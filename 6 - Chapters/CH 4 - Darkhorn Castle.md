@@ -48,7 +48,7 @@ Truth About Darkhorn Castle
 			2	The ghostly form of Lord Mevlair patrols the old road at midnight.
 			3	Fishermen vanish in the waters near the castle to some ancient fell beast.
 			4	Those that sleep within the castle grounds are driven into irrational killing  frenzies.
-			5 Secret tunnels connect the castle to ancient catacombs.
+			5      Secret tunnels connect the castle to ancient catacombs.
 			6	The dead do not remain buried near Darkhorn Castle.
 	- Travel to Darkhorn
 		- Option 1: Take the Old Road
@@ -103,7 +103,6 @@ Truth About Darkhorn Castle
 				- Commends them for their work on aiding in the corruption of the Kingsbay Moonwell.
 				- Invites him to Darkhorn Castle, describing the location of the entrance to the cellar, to discuss plans for heading into Myrloch Vale to spread the corruption to the Myrloch Vale.
 				- Entices the Outcast with revenge, rewards and favor in among the cult.
-				- 
 			- Captain = Brennan Mcanally
 			- Mage = Moira Donegan
 		- Attack Plans 
@@ -125,7 +124,7 @@ Truth About Darkhorn Castle
 		- Cook: Iona
 		- Can give details about the camp with a DC14. (Gain ADV if they mention meaning no harm)
 
-4. THE ARIANNA
+4. ==THE ARIANNA==
 - A merchant vessel run by Captain Caelan O'Ghlas, with a small crew. 
 	- Captain: From Caer Callidyr (on Isle of Alaron)
 		- Exports: Steel, weapons, lumber, mead
@@ -144,3 +143,22 @@ Truth About Darkhorn Castle
 	- Signs of wrecked ships on the approach
 	- Attacks as they near Darkhorn Point
 
+4. ==DARKHORN CASTLE==
+
+> [!Read Aloud] Title
+> The castle ahead is ruined and overgrown. No roof remains, and many of the walls are crumbling under the weight of time and vines. The stairs lead to an old audience hall with broken pillars.
+
+- Hazards
+	- GREEN = Razorvine
+		- Contact = DC10 DEX or take 1d10 slashing damage from the sharp ivy leaves
+		- AC11, HP25, immune to Blug, Pierc, Psychic
+		- Room to left of dais = +1 longsword hidden beneath the vine
+	- RED = Magical Ward
+		- Trigger = Stepping within the red area
+			- Any creature within 5ft of warded area make DC13 STR save or take 2d10 FORCE damage as a wave of power is unleashed from the ward.
+			- Ward resets after 1 minute
+			- Activated ward = alerts any cultists on the next level down
+			- Deactivated for 1 minute by speaking pass phrase: "Bhaal awaits thee, Bhaal embraces thee"
+			  
+
+5. DARKHORN CELLARS
