@@ -1,3 +1,4 @@
+
 ==DARKHORN CASTLE==
 Characters have to seek out an abandoned fortress atop sea cliffs north of Kingsbay to access the moonwell located in a grove behind the castle. The locals believe it haunted and avoid the surrounding waters entirely.
 
@@ -145,7 +146,7 @@ Truth About Darkhorn Castle
 
 4. ==DARKHORN CASTLE==
 
-> [!Read Aloud] Title
+> [!Read Aloud] Read Aloud
 > The castle ahead is ruined and overgrown. No roof remains, and many of the walls are crumbling under the weight of time and vines. The stairs lead to an old audience hall with broken pillars.
 
 - Hazards
@@ -159,6 +160,55 @@ Truth About Darkhorn Castle
 			- Ward resets after 1 minute
 			- Activated ward = alerts any cultists on the next level down
 			- Deactivated for 1 minute by speaking pass phrase: "Bhaal awaits thee, Bhaal embraces thee"
-			  
+	- GREY = Sinkhole
+		- Trigger = Stepping within the area
+		- DC13 DEX save or fall 20 feet into the hole taking 2d6 bludgeoning DMG
 
-5. DARKHORN CELLARS
+5. ==DARKHORN CELLARS==
+
+> [!Read Aloud]
+> The stair ends in a large open chamber, dimly lit by daylight filtering between cracks in the ceiling above. Once a storage cellar, this room still contains a dusty, rotting stack of crates. A hallway at the other end of the room leads deeper into the cellar.
+
+- 1. ROTTING CRATES = Collapsing wall trap
+	- A trip wire has been set 3" off the ground in front of the crates
+		-  DC11 INV/PER to detect
+		- Wire can be cut with no check needed
+	- Triggering the trip wire causes the crates to break apart releasing a rock slide.
+		- DEX13 or take 2d10 bludgeoning DMG
+
+- 2. This room is mostly filled with rubble from the collapsed ceiling above
+	- Nothing of value to be found
+
+- 3. This room serves the cultists as a kitchen and storeroom. They have brought barrels of fish, olives, wrapped cheeses, ale, pickles and the like. A prep table sits on the backwall. 
+
+- 4.  is an empty store room that appears to be in the process of being cleaned up. Debris is piled up in the center.
+
+- 5. The air in this room is thick with the scent of spices. One wall is a heap of well used weapons, taken from their victims and intended to arm the Outcasts. 
+	- 15 daggers, 4 short swords, 2 long swords, 8 javelins, 3 hand axes, a halberd, 4 clubs, and 3 maces. 
+	- They are mixed up with various scabbards, weapon-belts, straps, and sheaths.
+
+- 6. Lined with stone coffins that have been converted into cultists quarters. The coffins themselves seem to be repurposed as make-shift cots. 
+	- Searching the room will only yield 10GP, 7 SP and various symbols of Bhaal hidden among the packs of the cultists belongings. 
+	- SYMBOLS: ![2.6 Bhaal Sigil|141](<../4 - Images/2.6 Bhaal Sigil.webp>) ![4.3 Bhaal necklace|135](<../4 - Images/4.3 Bhaal necklace.jpg>)
+	- Searching the coffins themselves will find 475 GP, 313SP, 526CP and a Necrotic Dagger 
+	- ![4.4 Necrotic Dagger|154](<../4 - Images/4.4 Necrotic Dagger.png>)
+	- The necrotic dagger will be found in a coffin on its own. If no one searches the coffins, Sol will hear his patron whispering to him to check that specific coffin. 
+
+- 7. The door to this chamber is locked. 
+	- DC12 Sleight of Hand to pick the lock or AC10, HP18
+	- This chamber contains a narrow well.
+		- Investigating the well DC10 INV/PER: realizes the well is only 2 feet deep
+		- DC15 INV/PER: realizes that there is a hidden stone latch at the base that can be depressed to move the well aside revealing a hidden stairwell.
+	- 8. Investigating the walls (DC13) reveals a secret tunnel that leads a large stone slab (DC15 STR to move).
+		- Exits into a small hillside cave in the woods. 
+		- DC17 Survival Check will notice signs of corruption and be able to follow them towards the moonwell. 
+
+- 9. THE UNDERTOMB
+
+> [!Read Aloud]
+> The shaft descends 80 feet through rock, with carved handholds in its sides allowing easy climbing. It leads into a long, low-hall, carved out of solid rock. Two rows of large stone coffins flank a central open pathway, their tops carved into effigies of armored Ffolk. Five cultists stand amidst the coffins. The one in the rear, a cloaked figure with black skin and a dark wooden mask points his staff towards you and in a raspy voice instructs, "Kill them. Our Dark Druid demands it!"
+
+- The corrupted druid, Oishannan, will raise skeletons from the coffins on this first turn.
+- As he is dying, he will spit at them, "You will never stop the Dark Druid and his Risen Cult."
+	- If they pry further, they will learn that the Dark Druid is travelling to the Earthmother's Sacred Grove to try to gain entrance. (He will fail to gain access but the go to the Fens of the Fallon to corrupt that moonwell next.)
+	- There is a tunnel to the moonwell located behind the crypt of King Melvair's tomb (empty)
