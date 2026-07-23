@@ -192,23 +192,33 @@ Truth About Darkhorn Castle
 	- SYMBOLS: ![2.6 Bhaal Sigil|141](<../4 - Images/2.6 Bhaal Sigil.webp>) ![4.3 Bhaal necklace|135](<../4 - Images/4.3 Bhaal necklace.jpg>)
 	- Searching the coffins themselves will find 475 GP, 313SP, 526CP and a Necrotic Dagger 
 	- ![4.4 Necrotic Dagger|154](<../4 - Images/4.4 Necrotic Dagger.png>)
-	- The necrotic dagger will be found in a coffin on its own. If no one searches the coffins, Sol will hear his patron whispering to him to check that specific coffin. 
+	- The necrotic dagger will be found in a coffin on its own. 
 
 - 7. The door to this chamber is locked. 
 	- DC12 Sleight of Hand to pick the lock or AC10, HP18
 	- This chamber contains a narrow well.
 		- Investigating the well DC10 INV/PER: realizes the well is only 2 feet deep
 		- DC15 INV/PER: realizes that there is a hidden stone latch at the base that can be depressed to move the well aside revealing a hidden stairwell.
+		- If no one searches the well, Sol will hear his patron whispering to him to inspect it.
 	- 8. Investigating the walls (DC13) reveals a secret tunnel that leads a large stone slab (DC15 STR to move).
 		- Exits into a small hillside cave in the woods. 
 		- DC17 Survival Check will notice signs of corruption and be able to follow them towards the moonwell. 
 
-- 9. THE UNDERTOMB
+- 9. ==THE UNDERTOMB==
 
 > [!Read Aloud]
 > The shaft descends 80 feet through rock, with carved handholds in its sides allowing easy climbing. It leads into a long, low-hall, carved out of solid rock. Two rows of large stone coffins flank a central open pathway, their tops carved into effigies of armored Ffolk. Five cultists stand amidst the coffins. The one in the rear, a cloaked figure with black skin and a dark wooden mask points his staff towards you and in a raspy voice instructs, "Kill them. Our Dark Druid demands it!"
 
 - The corrupted druid, Oishannan, will raise skeletons from the coffins on this first turn.
 - As he is dying, he will spit at them, "You will never stop the Dark Druid and his Risen Cult."
-	- If they pry further, they will learn that the Dark Druid is travelling to the Earthmother's Sacred Grove to try to gain entrance. (He will fail to gain access but the go to the Fens of the Fallon to corrupt that moonwell next.)
+	- If they pry further, they will learn that the Dark Druid is travelling to the Earthmother's Sacred Grove to try to gain entrance. (He will fail to gain access but then go to the Fens of the Fallon to corrupt that moonwell next.)
 	- There is a tunnel to the moonwell located behind the crypt of King Melvair's tomb (empty)
+
+
+> [!Read Aloud]
+> At the far end of the tomb is a closed, arched stone door, engraved with the design of a crown. 
+
+- There is a large coffin standing atop a stone dais. The lid of this coffin is worked into a magnificent image of a woman wearing a crown. 
+- Inside the coffin is dust, the body within has crumpled completely away. In the dust, at one end of the coffin lies a black necklace shaped like a letter C, which is about seven inches across.
+	- SOL's patron will whisper to him about the coffin and necklace
+- It is cold to the touch before dissolving to dust in your hands. The only remnant of the necklace is a small shard of what appears to be black glass or gemstone. 
