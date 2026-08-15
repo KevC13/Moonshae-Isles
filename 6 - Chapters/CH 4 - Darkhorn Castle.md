@@ -154,7 +154,8 @@ Truth About Darkhorn Castle
 		- Contact = DC10 DEX or take 1d10 slashing damage from the sharp ivy leaves
 		- AC11, HP25, immune to Blug, Pierc, Psychic
 		- Room to left of dais = +1 longsword hidden beneath the vine
-	- RED = Magical Ward
+	- RED = Magical Ward 
+		- *On the wall above the cellar door is carved the symbol of Bhaal*
 		- Trigger = Stepping within the red area
 			- Any creature within 5ft of warded area make DC13 STR save or take 2d10 FORCE damage as a wave of power is unleashed from the ward.
 			- Ward resets after 1 minute
