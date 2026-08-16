@@ -223,3 +223,31 @@ Truth About Darkhorn Castle
 - Inside the coffin is dust, the body within has crumpled completely away. In the dust, at one end of the coffin lies a black necklace shaped like a letter C, which is about seven inches across.
 	- SOL's patron will whisper to him about the coffin and necklace
 - It is cold to the touch before dissolving to dust in your hands. The only remnant of the necklace is a small shard of what appears to be black glass or gemstone. 
+
+10. ==DARKHORN MOONWELL==
+- The corridor from the tomb is a narrow dark tunnel that slopes gently upwards.
+	- Takes about an hour of walking before they reach the end
+	- The exit abruptly from a small gap in a large rocky cliffside.
+	- It is full dark and the woods beyond are eerily quiet. 
+	- NIGHT ENCOUNTER = zombie attack
+
+- Navigating to the moonwell = DC13 SURVIVAL (DIS if nighttime)
+	- success = finding tracks and the trail 
+		- four sets of footprints (3 fanatics and a corrupted druid)
+	- failure will equal getting lost and circling back to the cliffside
+
+> [!Read Aloud]
+> The path ends in a shadowy clearing with three pools of black water surrounded by low stone worked walls. Large stone totems lie between the pools. Standing among the pillars are three cult fanatics and another corrupted druid, who looks eerily similar to the figure you defeated in the crypt.
+
+Anphrantul = sister of Oishannan
+- she scoffs at her brothers weakness
+- 1st round = raise undead
+- 2nd round = [Blight](https://www.dndbeyond.com/spells/2618934-blight) (spell save DC13)
+- 3rd round = [Call Lightning](https://www.dndbeyond.com/spells/2618949-call-lightning) (spell save DC13)
+- 4th round = [Wither and Bloom](https://www.dndbeyond.com/spells/1239806-wither-and-bloom) 
+
+Post Battle
+- Kol will receive a message from the Earthmother
+	- Come to Sacred Grove
+	- Beware a powerful evil, the Dark Druid is in the land
+	- Tried to gain access but was repelled
