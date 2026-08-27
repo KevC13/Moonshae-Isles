@@ -229,6 +229,7 @@ Truth About Darkhorn Castle
 	- Takes about an hour of walking before they reach the end
 	- The exit abruptly from a small gap in a large rocky cliffside.
 	- It is full dark and the woods beyond are eerily quiet. 
+		- CON
 	- NIGHT ENCOUNTER = zombie attack
 
 - Navigating to the moonwell = DC13 SURVIVAL (DIS if nighttime)
@@ -245,9 +246,11 @@ Anphrantul = sister of Oishannan
 - 2nd round = [Blight](https://www.dndbeyond.com/spells/2618934-blight) (spell save DC13)
 - 3rd round = [Call Lightning](https://www.dndbeyond.com/spells/2618949-call-lightning) (spell save DC13)
 - 4th round = [Wither and Bloom](https://www.dndbeyond.com/spells/1239806-wither-and-bloom) 
+- If they interrogate her, they will learn that the Dark Druid is travelling to the Earthmother's Sacred Grove to try to gain entrance. (He will fail to gain access but then go to the Fens of the Fallon to corrupt that moonwell next.)
 
 Post Battle
 - Kol will receive a message from the Earthmother
 	- Come to Sacred Grove
 	- Beware a powerful evil, the Dark Druid is in the land
 	- Tried to gain access but was repelled
+	- He is not within the border woods of Sacred Grove but I do not know where he has gone

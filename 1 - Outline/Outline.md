@@ -33,25 +33,32 @@
 			- Beasts of the land
 		- Big Bad
 			- Lesser Corrupted Druid
-	- ==Level 6 - 10==
+	- ==Level 6 - 10: The Dark Druid's Designs==
 		- Investigate the Cult
 		- Personal Story Arcs
+			- Eamon learning of his family's fate and rescuing his mother
+			- Al-Dahr Facing off with the Dark Druid
 		- Protect the Moonwells on other Isles
 			- Moray
 			- Oman
-			- Alaraon
+			- Alaron
 		- Investigate the missing/corrupted Druids
 		- Political Drama
 			- Learn of Black Blood Tribe and the threat of Kazgoroth
-			- Tie Main Druid to threat
+			- Tie Dark Druid to threat
+			- Must chase the Dark Druid from isle to isle
+			- Catch him on Alaron
 			- End with the return of Kazgoroth
 		- Bads
 			- Black Blood Tribe
 			- Giants
 			- Storm MAiden
 		- Big Bad
-			- Main Corrupted Druid 
-	- ==Level 11 - 15==
+			-The Dark Druid 
+	- ==Level 11 - 15: The Rise of Kazgoroth==
+		- Kazgoroth Returns and begins ravaging the Isles
+		- Learn that only the Sword of Cymrych Hugh can stop him
+		- Personal Arc = Fink must confront Peter and/or Tink in the Feywild to move forward with the search
 		- Enter the Feywild
 			- Seek out the Sword of Cymrych Hugh
 		- Learn of Bhaal
@@ -73,7 +80,7 @@ Session 0
 		- Gaurd/Soldier - Son of a military officer
 	- Explains background
 CHAPTER 1 - Moonwell (Level 1) - Sacred Grove of the Earthmoth
-	Lvl 1 - Begin in [[Moonshae Isles]]
+	Lvl 1 - Begin in [[../2 - Locations/Moonshae Isles]]
 	- All in a room/dungeon
 		- In an ancient burial Cairn
 		- Near a dark pool (one of the [moonwells](https://forgottenrealms.fandom.com/wiki/Moonwell))
