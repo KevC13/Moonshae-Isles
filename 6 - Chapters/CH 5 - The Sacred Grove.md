@@ -6,6 +6,8 @@ Journey to the Grove
 	- 1: Take the Cambrent Gap
 		- Must sneak through the lands of the LeShay
 		- Easier Trek, but risks the wrath of the LeShay
+			- If they are caught they will have to convince the Queen, High Lady Ordalf, to allow them passage to the Sacred Grove
+			- They will be brought to Karador
 		- Encounter the Cambrent Gap guards
 		- Encounter Trolls in the foothills
 		- Encounter the Unicorn in the woods
@@ -17,6 +19,8 @@ Journey to the Grove
 				- Angered by the mining some 100 years ago.
 				- Broke through the mountain and drove the miners out
 				- Serves the Earthmother and will open an path to the woods beyond, if he can be persuaded
+			- Rockfall Trap: 3d10 DMG, DC13DEX to avoid, DC13PER/INV to notice
+			- Pit Trap: 30ft (3d6 DMG) deep collapsing in to an old collapsed mining shaft, DC13 DEX
 			- Encounter the Unicorn in the woods after escaping
 	- 3: Over the Cambro Mountains East of Thorndyke
 		- The foothills hold trolls
