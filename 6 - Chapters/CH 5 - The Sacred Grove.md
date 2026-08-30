@@ -2,6 +2,26 @@ OUTLINE
 Characters gain access to the Sacred Grove, meeting with the Earthmother for the first time. During this session she will layout why she chose them (growth ability), what the growing threat is (Kazgoroth), and reveal their final memory (their deaths).
 
 Journey to the Grove
+- Tylwyth Teg
+	- The eccentric traveling (fey) merchant will meet them along any path they chose.
+	- Asks them if they would like to make a trade.
+	- He'll offer three items and asks if they'll offer one in return for one.
+	- Items to offer: 
+		- Wooden Box 12x6x6 (Folding Boat)
+		- Simple Monocular on a plain wooden wand (Gem of Seeing)
+		- Black Silk Handkerchief (Portable Hole) 
+	- He values things that are unique and have a story about them.
+	- Knowledge:
+		- Knows of the PATH through Highhome
+			- Has an old friend in the mines that can "help you move through the mountain"
+			- He rocks, he's a real solid fella if you're on his good side.
+			- Just don't disturb the mine, he takes any theft of the ore very personally. 
+		- Sacred Grove: Find your way to the woods and the Earthmother will find you (if she wants to).
+		- Dark Druid: He is dark and twisted. 
+			- Reminds me of the followers of Kazgoroth
+			- Centuries ago
+			- Nearly wiped out the Isles
+			- Probably want to stop him.
 - Path
 	- 1: Take the Cambrent Gap
 		- Must sneak through the lands of the LeShay
