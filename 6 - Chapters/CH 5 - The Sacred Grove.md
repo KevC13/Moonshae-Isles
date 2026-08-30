@@ -12,6 +12,7 @@ Journey to the Grove
 		- Black Silk Handkerchief (Portable Hole) 
 	- He values things that are unique and have a story about them.
 	- Knowledge:
+		- Fink: You once knew the boy. Take it from me he was better off with you. (then winks)
 		- Knows of the PATH through Highhome
 			- Has an old friend in the mines that can "help you move through the mountain"
 			- He rocks, he's a real solid fella if you're on his good side.
