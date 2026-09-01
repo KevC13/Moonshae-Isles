@@ -250,7 +250,9 @@ Anphrantul = sister of Oishannan
 
 Post Battle
 - Kol will receive a message from the Earthmother
-	- Come to Sacred Grove
-	- Beware a powerful evil, the Dark Druid is in the land
-	- Tried to gain access but was repelled
+	- You have done well. I can feel my strength to this Isle returning. Now it is time for you to come to Sacred Grove. We have much to discuss.
+	- As she is finishing speaking; 
+		- The Dark Druid attacks the grove. 
+		- I must focus my power on resisting him.
+		- Come quickly!
 	- He is not within the border woods of Sacred Grove but I do not know where he has gone
