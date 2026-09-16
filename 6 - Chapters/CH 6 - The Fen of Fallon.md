@@ -100,5 +100,13 @@ OUTLINE: The party must journey towards and through the Fens of Fallon to confro
 > [!NOTE] Read Aloud
 > After hours, maybe even days, of traveling, the path finally ends in a clearing similar to the Sacred Grove, but instead of life and light, you are surrounded by death and decay. As massive dead tree sits amidst a oil black pond and standing on the shore line is a hooded figure with dark black eyes, black veins spreading across his ashen skin, and he is carrying a black staff that absorbs the light around it. "Finally, the Eartmother's champions have arrived".
 
-
-
+THE DARK DRUIDS MONOLOGUE
+- Lets not be too hasty. Your death will come soon enough.
+	- Pointing at Al-Dahr = I get the pleasure of killing you twice, how novel.
+- Don't you want to know why I choose this spot?
+	- Once known as the _White Well_, this moonwell 
+	- Was permanently corrupted when **Kazgoroth** was once slain, his still-beating heart sinking to the bottom of the pool
+	- The decaying heart’s lingering, vile magic seeped into the water, turning the once holy site into the "Darkwell", corrupting the land around it.
+	- Despite all her power, the Earthmother could never quite cleanse this Darkwell, and it only took a nudge to reawaken the dark power and further the decay.
+- Seems a fitting place end your little quest.
+	- Your deaths will hasten the connection to Gahenna and the return of Kazgoroth. 
