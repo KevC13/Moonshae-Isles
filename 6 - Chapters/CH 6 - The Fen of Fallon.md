@@ -73,4 +73,32 @@ OUTLINE: The party must journey towards and through the Fens of Fallon to confro
 > [!NOTE] Read Aloud
 > The air in the dense forest begins to press in heavy on your lungs, and familiar signs of corruption become evident. Decaying trees, thick webs in the canopies, spongy earth underfoot, and dark twisting slick black vines appear as you travel deeper. A wave of nausea overwhelms you as the thick air and dark magic assaults your mind and senses. 
 
-DC13 CON or WIS SAVE or become POISONED
+- DC13 CON or WIS SAVE or become POISONED
+
+- As they begin to travel deeper, DC10 PERCEPTION
+	- Notice that the thick black vines are slowly retreating opening a trail to follow
+	- Guiding them towards the moonwell
+
+- They will be unimpeded while traveling forward, but will notice the corruption deepening
+	- Ash like substance hangs in the thick foggy air
+	- ground becoming spongier
+	- Trees lifeless and overgrown with grey moss and black fungi
+	- DC16 PER = see various blights standing stock still in the distance
+	- LEADER (Kol?) = DEX15 Save or get sucked neck deep in a mud patch
+		- If the party fails to pull him free immediately a vine will
+
+- FERAL FIRBOLG ENCOUNTER
+	- They are led to a firbolg who has been overrun by the corruption
+		- He has a blank stare
+		- Looks a shambles
+		- Eating a black mushroom
+		- Does not react to the presence of the party, even if prompted
+		- Just softly
+
+5. ==THE DARKWELL==
+
+> [!NOTE] Read Aloud
+> After hours, maybe even days, of traveling, the path finally ends in a clearing similar to the Sacred Grove, but instead of life and light, you are surrounded by death and decay. As massive dead tree sits amidst a oil black pond and standing on the shore line is a hooded figure with dark black eyes, black veins spreading across his ashen skin, and he is carrying a black staff that absorbs the light around it. "Finally, the Eartmother's champions have arrived".
+
+
+
