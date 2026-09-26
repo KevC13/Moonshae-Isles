@@ -105,8 +105,20 @@ THE DARK DRUIDS MONOLOGUE
 	- Pointing at Al-Dahr = I get the pleasure of killing you twice, how novel.
 - Don't you want to know why I choose this spot?
 	- Once known as the _White Well_, this moonwell 
-	- Was permanently corrupted when **Kazgoroth** was once slain, his still-beating heart sinking to the bottom of the pool
-	- The decaying heart’s lingering, vile magic seeped into the water, turning the once holy site into the "Darkwell", corrupting the land around it.
+	- Was permanently corrupted when **Kazgoroth** was slain by Cymrych Hugh, his still-beating heart sinking to the bottom of the pool
+	- The decaying heart’s lingering, vile magic seeped into the water, turning this once holy site into the "Darkwell", corrupting the land around it.
 	- Despite all her power, the Earthmother could never quite cleanse this Darkwell, and it only took a nudge to reawaken the dark power and further the decay.
 - Seems a fitting place end your little quest.
-	- Your deaths will hasten the connection to Gahenna and the return of Kazgoroth. 
+	- Your deaths will be my first sacrifices, hastening the connection to Gahenna and the return of Kazgoroth. 
+- Other Isles
+	- You think your actions here actually matter
+	- You may have defeated my cultists here and protected the Earthmother for a time, but
+	- I have enclaves and lackeys on all the Isles of Moonshaes
+	- You may have slowed me, but you cannot stop what is coming
+- Battle
+	- The amulet will fail in its attempt to cleanse the corruption (the druid resisting the power)
+	- Before being defeated, the Steward of the Grove will appear in Astral Form and use the power of the corrupted moonwell to send them to the realm beyond.
+		- She will know the Dark Druid (grandson?)
+		- He will refer to her as the Elder One
+		- She will hold him momentarily and cleanse a small portion of the well to allow an escape.
+	- Fink will feel a pulse towards another corrupted well. 
