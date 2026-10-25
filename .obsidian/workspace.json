@@ -194,7 +194,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
@@ -202,10 +201,10 @@
   "lastOpenFiles": [
     "6 - Chapters/CH 8 - Moray Isles.md",
     "6 - Chapters/Ch 7 - The Dark Between.md",
-    "1 - Outline/Outline.md",
     "7 - Recap/Act II - The Dark Druid.md",
-    "6 - Chapters/CH 6 - The Fen of Fallon.md",
     "6 - Chapters/CH 5 - The Sacred Grove.md",
+    "6 - Chapters/CH 6 - The Fen of Fallon.md",
+    "1 - Outline/Outline.md",
     "index.md",
     "7 - Recap/Act I - The Corrupted Moonwells.md",
     "6 - Chapters/CH 4 - Darkhorn Castle.md",
