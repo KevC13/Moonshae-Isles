@@ -185,10 +185,23 @@ WOLF ENCOUNTER
 		- Front Room is a lounge area where a number of mercenaries of various ages, sizes, and demeanor reside. 
 			- During the day, Oren can be found among them, waiting to take on a that will take him towards the Breasal Marsh. 
 			- OREN: 
-				- Spends his day at the Guild and nights getting drunk.
-				- Regrets missing the battle in which his Lord died, Eamon went missing (presumed dead), and the Lady was taken. 
-				- His last act of honor was to bring the people of Dynnegal to safety, but became dejected when Lord Bran Dagdar declined to aid in a rescue of the Lady and the others taken into the marsh.
-				- He does not hold out hope for those taken, and now seeks a good death killing as many Black Blood Tribe as possible. 
+				- MANNER: 
+					- Gruff, but softens for Eamon
+					- Spends his day at the Guild and nights getting drunk.
+					- Regrets missing the battle in which his Lord died, Eamon went missing (presumed dead), and the Lady was taken. 
+					- Cut his own arm off in a battle a decade ago after being bitten by a werewolf
+				- THE BATTLE
+					- Gotten drunk the night of the raid and was passed out in a ditch when the Black Blood Tribe attacked
+					- THE 132: His last act of honor was to bring the people of Dynnegal to safety.
+				- NOW: 
+					- Seeks redemption for not protecting the Lord and Lady 
+					- Became dejected when Lord Bran Dagdar declined to aid in a rescue of the Lady and the others taken into the marsh.
+					- Came here to raise money or bleed debts to pay for others to join him
+						- Jobs are slow
+						- Planning to head out on his own in the coming days
+						- He does not hold out hope for those taken, but still seeks a good death killing as many Black Blood Tribe as possible. 
+				
+
 	- 9. ==🟢Mystic Barrell Inn==
 		- Warm inviting common area with a large hearth, surrounded by some wooden benches with throw pillows, along with a few round tables for eating. 
 		- Owner: Steffan O'Connor
