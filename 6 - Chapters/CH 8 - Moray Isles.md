@@ -119,6 +119,7 @@ WOLF ENCOUNTER
 			- Will NOT provide men to fight the Black Bloods.
 				- Has already lost too many trying to fight them on their turf.
 				- Needs them to protect the city.
+				- Already told the same to your weapon's master, Oren.
 			- Will provide a writ of patronage in exchange for the Lightning Nuts aid in fighting the Black Blood Tribe
 				- Pay for the "silvering" of your weapons at our city Blacksmith
 				- Room and Board at the Mystic Barrell Inn
@@ -192,7 +193,9 @@ WOLF ENCOUNTER
 					- Cut his own arm off in a battle a decade ago after being bitten by a werewolf
 				- THE BATTLE
 					- Gotten drunk the night of the raid and was passed out in a ditch when the Black Blood Tribe attacked
-					- THE 132: His last act of honor was to bring the people of Dynnegal to safety.
+					- Armor was gone
+					- Found the halberd, impaled in his father's chest
+					- THE 132: His last act of honor was to bring the people of Dynnegal to safety. Mostly elderly, infirm, and a few families that were able to flee, hide, or were not in the town when the attack came.
 				- NOW: 
 					- Seeks redemption for not protecting the Lord and Lady 
 					- Became dejected when Lord Bran Dagdar declined to aid in a rescue of the Lady and the others taken into the marsh.
