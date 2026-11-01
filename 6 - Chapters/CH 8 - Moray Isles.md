@@ -289,6 +289,30 @@ DC14 PER:
 
 > "MORAY BELONGS TO THE BLACK BLOODS."
 
+
+- ==🟣Tylwyth Teg==
+
+>Well that is quite disturbing! (Shivers audibly) This Marsh always gives me the heebeegeebees.
+- They will turn to see the eccentric traveling (fey) merchant once again.
+	- It has been sometime, and it seems you have grown. Any interest in another trade.
+		- Items to offer: 
+			- Bag made of Rust colored cloth (Rust Bag of Tricks)
+			- Small pewter talisman with runic symbols etched into it (Amulet of Retributive Healing)
+			- Polished agate stone in the shape of a cat's head (Stone of Good Luck)
+			- Small glass jar sealed with a oil cloth top and twine (Keoghtom's Ointment - 3 charges)
+			- A hooded cloak that shimmers with a multi-hued color (Cloak of Many Fashions)
+		- He wants more unique item this time (will make up to two trades for DC16 PER). 
+	- Knowledge:
+		- ==🟡FINK:== You once knew the boy. Take it from me he was better off with you. (then winks)
+		- ==🟡EAMON==: Hope out hope, she yet lives.
+		- Path Ahead
+			- Beware the posts, they are not what they seem
+		- Dark Druid:
+			- He is not on this island, but his influence surely is
+			- He seeks to connected the ruined pools.
+			- Look to Alaron if you hope to follow his trail.
+
+
 ---
 
 - ==🔴Lizardfolk Hunting Party==
