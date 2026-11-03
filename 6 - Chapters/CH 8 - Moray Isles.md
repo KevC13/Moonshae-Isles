@@ -158,6 +158,8 @@ WOLF ENCOUNTER
 			- Also has a stash of Adamantine she has been wanting to work (when the right customer came along)
 				- Armor = Critical Hits become normal (400GP + cost of item)
 				- Weapons = Auto Crits Objects (not creatures) (400GP + cost of item)
+		- AKA: Sizzlebeard
+			- Knows: Emberforge
 	- 5. ==🟢Salty Mary's Pub==
 		- Owner: Salty Mary
 	- 6. ==🟢Local Market==
