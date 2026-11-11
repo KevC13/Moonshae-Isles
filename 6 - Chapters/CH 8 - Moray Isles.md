@@ -116,15 +116,16 @@ WOLF ENCOUNTER
 			- Over the last year, the Black Blood raids have increased and their numbers and strength have seemed to grow as well.
 				- Black Blood Tribe Leader = Argon Bael, a massive warrior and lycanthrope.
 					- Thick black hair, and wields a huge warhammer when not transformed
+					- Viscous and cunning
 			- Will NOT provide men to fight the Black Bloods.
 				- Has already lost too many trying to fight them on their turf.
 				- Needs them to protect the city.
 				- Already told the same to your weapon's master, Oren.
-			- Will provide a writ of patronage in exchange for the Lightning Nuts aid in fighting the Black Blood Tribe
+			- Will provide a "writ of patronage" in exchange for the Lightning Nuts aid in fighting the Black Blood Tribe
 				- Pay for the "silvering" of your weapons at our city Blacksmith
 				- Room and Board at the Mystic Barrell Inn
 				- Waive the taxes you pay at any local merchant (10% discount)
-				- DC13 PER will also offer a set Full Plate Mail to Eamon (debt owed to your father)
+				- DC13 PER will also offer Gauntlets of Ogre Power to Eamon (debt owed to your father)
 				- If you succeed in stopping them, then I can give you a reward of 5000GP.
 	- 2. ==🟢Earthmother Temple==
 		- Large temple built around a moonwell
@@ -540,6 +541,19 @@ IF COMBAT BEGINS:
 	- Round 3: The Druid slays the second soldier and the pool begins to swirl more violently.
 	- Round 4: The green energy turns black.
 	- Round 5: The Druid slays the final soldier and everything crescendos and then goes eeriely still. Then something stirs beneath black pool
+- NOTES
+	- Cult of Bhaal Druid
+		- Spits at the them: Stopping the ritual only delays the Dark Druid's design
+		- Stone with a full moon filled with dried blood and piece of hair imbedded in it.
+			- Opens an arcane lock to the Black Blood Tribe's lair
+		- Black Blood Lair is in the Orcskill mountains
+			- DC15 PER or INT, or a petition to the earthmother to save his soul by Kol (DC12 ARC)
+			- prisoners awaiting sacrifice are kept there
+			- Argon Bael is there, when not raiding
+			- Werewolves navigate by scent to find the path through the woods, the opening is at a mountain crack that resembles a crescent moon
+			- Dark Druid plans to corrupt 2 more wells to aid in open the gate for Kazgoroth.
+				- The southern forest of Nordland
+				- Dernall Forest on Alaron
 
 
 ---
