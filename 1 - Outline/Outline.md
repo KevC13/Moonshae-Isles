@@ -47,12 +47,31 @@
 			- Learn of Black Blood Tribe and the threat of Kazgoroth
 			- Tie Dark Druid to threat
 			- Must chase the Dark Druid from isle to isle
-			- Catch him on Alaron
+				- Begins on Moray w/the Black Bloods
+				- Learn of his design to corrupt two other wells to create the "gate"
+					- One on Nordland
+					- One on Alaron
+					- When they choose to go to one, the other one will be left to be corrupted
+					- Al-Dahr will run into a survivor of his village during their travels and learn of the fate of the village;
+						- The location is on Oman Isle
+						- The village is destroyed
+						- The cult has taken it over, excavating something below the village
+						- Many of the survivors fled to the old Iron Keep to hide
+			- Catch him on Oman in the ruins of Al-Dahr's village
+				- Cult is excavating a long forgotten and inactive moonwell that sits on the ley lines of the moonwells he attempted to corrupt. 
+				- Only needed two of the four fully corrupted to begin the ritual, more means faster
 			- End with the return of Kazgoroth
+				- When/if they defeat the Dark Druid all will seem good for a moment...
+					- Let them claim loot
+					- Inspect the area
+					- Give it a few minutes of game play
+				- Then dark shadowy blood will seep out of the Druid drawn towards the well.
+				- When it makes contact the ritual will complete and Kazgoroth will begin to emerge
+				- The Earthmother will make contact, telling them it will take time for him to fully break few (a day or two)
+				- The only way to defeat is to find the Sword of Cymrych Hugh, lost on the Feywild
 		- Bads
 			- Black Blood Tribe
-			- Giants
-			- Storm MAiden
+			- Giants/Northlanders
 		- Big Bad
 			-The Dark Druid 
 	- ==Level 11 - 15: The Rise of Kazgoroth==
